@@ -41,7 +41,7 @@ a {
   align-items: center;
   height: 90px;
   font-size: 30px;
-  background:  #FFFF99;
+  background:  #ffffcc;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   font-weight: bold;
 }
@@ -100,7 +100,7 @@ a {
   border-radius: 5px;
   border-width: 1px;
   border-color: #335c62;
-  background-color: #ffffcc;
+  background-color: #FFFFEB;
   padding: 5px;
 }
 
@@ -112,7 +112,7 @@ a {
 footer {
   width: 100%;
   height: 90px;
-  background: #FFFF99;
+  background: #ffffcc;
   margin-top: auto;
   display: flex !important;
   font-size: 14px;
